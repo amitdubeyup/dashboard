@@ -1,6 +1,6 @@
-# dashboard
+# simple-html-dashboard
 
-A dashboard project
+- Modern and scalable architecture
 
 ## ✨ Features
 
@@ -10,8 +10,8 @@ A dashboard project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/dashboard.git
-cd dashboard
+git clone https://github.com/amitdubeyup/simple-html-dashboard.git
+cd simple-html-dashboard
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-dashboard/
+simple-html-dashboard/
 ├── .env.example
 ├── README.md
 ```
