@@ -1,7 +1,5 @@
 # Simple Html Dashboard
 
-
-
 ## 📝 About The Project
 Custom software solution developed to address specific business requirements for Simple Html Dashboard.
 
@@ -11,9 +9,6 @@ Custom software solution developed to address specific business requirements for
 
 ## 🛠️ Tech Stack
 *   **HTML5/CSS3**
-
-## 👨‍💻 Lead Maintainer
-[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📦 Installation
 
@@ -29,6 +24,9 @@ Custom software solution developed to address specific business requirements for
     ```bash
     npm start    # or python app.py
     ```
+
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📄 License
 This project is licensed under the **MIT License**.
